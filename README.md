@@ -11,4 +11,4 @@ In this repo, I attempt to understand systemic biases in gender and racial polic
 The question I decided to investigate for the hypothesis test is: are female complainants more likely to recieve an 'Arrest - other violation/crime' outcome for the same nypd contact reasons as males?
 
 ## Classification Model
-The prediction problem I am attempting is a classification problem. I aim to build and finetune a sklearn DecisionTreeClassifier model to predict whether the ethnicity of an NYPD officer is White or Not White. 
+The prediction problem I am attempting is a classification problem. I aim to build and finetune a sklearn DecisionTreeClassifier model to predict whether the ethnicity of an NYPD officer is White or Not White. The model is trained on a portion of the allegations data and tested on unseen data.
